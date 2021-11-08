@@ -1,0 +1,26 @@
+body{
+	background:#f1f1f1;
+
+}
+.content{
+	width:800px;
+	margin:50px;
+	
+}
+.content a{
+	text-decoration:none;
+	font-size:20px;
+	font-family:arial black;
+	
+}
+table{
+	width:400px;
+	border-collapse:collapse;
+}
+table tr th, td{
+	border:1px solid black;
+	text-align:center;
+}
+th, td{
+	padding:10px;
+}
